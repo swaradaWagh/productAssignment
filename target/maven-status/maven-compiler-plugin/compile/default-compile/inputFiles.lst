@@ -1,0 +1,16 @@
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/service/user/UserDetailServiceImpl.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/configuration/WebSecurityConfiguration.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/model/User.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/controller/ProductController.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/model/BaseModel.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/repository/ProductRepository.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/repository/user/UserRepository.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/model/Category.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/model/Product.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/service/product/ProductServiceImpl.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/repository/CategoryRepository.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/controller/LoginController.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/Application.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/configuration/WebMvcConfiguration.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/dto/ProductDto.java
+/home/synerzip/workspace_home/productSampleApp/src/main/java/com/sample/productSampleApp/service/product/ProductService.java
